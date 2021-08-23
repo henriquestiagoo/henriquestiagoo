@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Tiago Henriques, an iOS Software Engineer who's passionate about building user-friendly interfaces and architecting applications from the ground-up. I'm primarily focused on functional programming and enjoy working with Swift.
+
+💻 Here's a few side-projects I'm working on:
+
+* [tiagohenriques.io](https://tiagohenriques.vercel.app) - My portfolio built with Next.js, MDX, Tailwind CSS, and Vercel
+* [suitablegreen.com](https://suitablegreen.com) - My old man's business website
+
+💌 Feel free to [reach me](mailto:th.tk@hotmail.com) out for a coffee ☕
