@@ -22,4 +22,4 @@ I'm Tiago Henriques, an iOS Software Engineer who's passionate about building us
 * [tiagohenriques.io](https://tiagohenriques.vercel.app) - My portfolio built with Next.js, MDX, Tailwind CSS, and Vercel
 * [suitablegreen.com](https://suitablegreen.com) - My old man's business website
 
-💌 Feel free to [reach me](mailto:th.tk@hotmail.com) out for a coffee ☕
+Feel free to [reach me](mailto:th.tk@hotmail.com) out for a coffee ☕
