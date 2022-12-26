@@ -30,10 +30,10 @@ let package = Package(
 
 // IMPORTANT: enable the following function call if you encounter the error
 //    `dyld: Library not loaded: @rpath/libswift_Concurrency.dylib`
-hookInternalSwiftConcurrency()
+//hookInternalSwiftConcurrency()
 
 func hookInternalSwiftConcurrency() {
-    let isFromTerminal = ProcessInfo.processInfo.environment.values.contains("/usr/lib/swift")
+    let isFromTerminal = ProcessInfo.processInfo.environment.values.contains("/usr/bin/swift")
     if !isFromTerminal {
         package.targets.first?.addLinkerSettingUnsafeFlagRunpathSearchPath()
     }
