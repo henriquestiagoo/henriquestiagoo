@@ -33,7 +33,7 @@ let package = Package(
 hookInternalSwiftConcurrency()
 
 func hookInternalSwiftConcurrency() {
-    let isFromTerminal = ProcessInfo.processInfo.environment.values.contains("/usr/bin/swift")
+    let isFromTerminal = ProcessInfo.processInfo.environment.values.contains("/usr/lib/swift")
     if !isFromTerminal {
         package.targets.first?.addLinkerSettingUnsafeFlagRunpathSearchPath()
     }
