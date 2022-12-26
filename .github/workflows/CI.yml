@@ -2,9 +2,8 @@ name: Fetch latest blog posts and update my README.md
 
 on:
   push:
-    - main
   schedule:
-    - cron "0 0 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
