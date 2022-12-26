@@ -6,7 +6,7 @@ import Foundation
 
 let package = Package(
     name: "ReadMe",
-    platforms: [.macOS(.v10_15)],
+    platforms: [.macOS(.v12)],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
