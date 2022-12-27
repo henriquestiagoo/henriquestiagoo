@@ -1,7 +1,6 @@
 import Foundation
 import ArgumentParser
 
-@main
 struct ReadMe: AsyncParsableCommand {
     @Argument(help: "The template file that is to be used to parse and replace content.")
     var template: String
@@ -32,6 +31,16 @@ struct ReadMe: AsyncParsableCommand {
         try newContent.write(to: URL(fileURLWithPath: destination), atomically: true, encoding: .utf8)
     }
 }
+
+@main
+enum CLI {
+  static func main() async {
+      await ReadMe.main()
+  }
+}
+
+// Prior to Swift 5.3 call the main method
+//ReadMe.main()
 
 // Invoke the script on the entrypoint `main.swift`
 //ReadMe.main()
