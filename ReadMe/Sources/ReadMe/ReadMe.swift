@@ -1,7 +1,8 @@
 import Foundation
 import ArgumentParser
 
-struct ReadMe: AsyncParsableCommand {
+@main
+struct ReadMe: ParsableCommand, AsyncParsableCommand {
     @Argument(help: "The template file that is to be used to parse and replace content.")
     var template: String
 
@@ -28,4 +29,4 @@ struct ReadMe: AsyncParsableCommand {
 }
 
 // invoke the script on the entrypoint.
-ReadMe.main()
+//ReadMe.main()
