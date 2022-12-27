@@ -13,7 +13,14 @@ struct ReadMe: AsyncParsableCommand {
         guard let url = URL(string: "https://tiagohenriques.vercel.app/api/posts") else { return }
 
         let urlRequest = URLRequest(url: url)
-        let (data, _) = try await URLSession.shared.data(for: urlRequest)
+        var data: Data?
+        if #available(macOS 12, *) {
+            data = try await URLSession.shared.data(for: urlRequest).0
+        } else {
+            data = try await URLSession.shared.asyncData(from: urlRequest).0
+        }
+//        let (data, _) = try await URLSession.shared.data(for: urlRequest)
+        guard let data = data else { return }
         let posts = try JSONDecoder.snakeCaseDecoder.decode([Post].self, from: data)
         // get the latest posts
         let latestPosts = (posts.count < 3) ? posts : Array(posts.suffix(3)).reversed()
