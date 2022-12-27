@@ -7,10 +7,12 @@ on:
 
 jobs:
   build:
-    runs-on: macos-11
+    runs-on: macos-latest
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          xcode-version: '13.3'
       - run: cd ReadMe && swift run ReadMe $(pwd)/../templates/README.md.tpl $(pwd)/../README.md
       - run: |
             git config user.name henriquestiagoo
