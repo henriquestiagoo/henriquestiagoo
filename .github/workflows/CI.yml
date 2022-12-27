@@ -5,14 +5,16 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: macos-latest
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          xcode-version: '13.3'
       - run: cd ReadMe && swift run ReadMe $(pwd)/../templates/README.md.tpl $(pwd)/../README.md
       - run: |
             git config user.name henriquestiagoo
