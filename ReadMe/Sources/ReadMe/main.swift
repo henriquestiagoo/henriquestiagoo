@@ -9,7 +9,7 @@ struct ReadMe: AsyncParsableCommand {
     var destination: String
     
     // this is the code that will be executed by the command
-    mutating func run() async throws {
+    func run() async throws {
         guard let url = URL(string: "https://tiagohenriques.vercel.app/api/posts") else { return }
 
         let urlRequest = URLRequest(url: url)
