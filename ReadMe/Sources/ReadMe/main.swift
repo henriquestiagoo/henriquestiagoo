@@ -1,8 +1,7 @@
 import Foundation
 import ArgumentParser
 
-//@main
-struct ReadMe: ParsableCommand, AsyncParsableCommand {
+struct ReadMe: AsyncParsableCommand {
     @Argument(help: "The template file that is to be used to parse and replace content.")
     var template: String
 
@@ -10,7 +9,7 @@ struct ReadMe: ParsableCommand, AsyncParsableCommand {
     var destination: String
     
     // this is the code that will be executed by the command
-    func run() async throws {
+    mutating func run() async throws {
         guard let url = URL(string: "https://tiagohenriques.vercel.app/api/posts") else { return }
 
         let urlRequest = URLRequest(url: url)
