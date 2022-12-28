@@ -23,8 +23,8 @@ I'm Tiago Henriques, an iOS Software Engineer who's passionate about building us
 * [suitablegreen.com](https://suitablegreen.com) - My old man's business website
 
 ### Latest articles in my [blog](https://tiagohenriques.vercel.app/)
+* [Attempt to test Github Action Worflow !!](https://tiagohenriques.vercel.app/blog/watchos-healthkit-app)
 * [Hello, Apple Watch ⌚](https://tiagohenriques.vercel.app/blog/watchos-healthkit-app)
 * [Build a REST API by Web Scraping Data 👷🏻‍♂️](https://tiagohenriques.vercel.app/blog/build-api-by-web-scraping)
-* [A Tour of The Composable Architecture with the SpaceX API 🚀](https://tiagohenriques.vercel.app/blog/spacex-composable-architecture)
 
 Feel free to [reach me](mailto:th.tk@hotmail.com) out for a coffee ☕
