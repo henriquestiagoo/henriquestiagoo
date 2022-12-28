@@ -22,6 +22,7 @@ let package = Package(
         ),
         .testTarget(
             name: "ReadMeTests",
-            dependencies: ["ReadMe"]),
+            dependencies: ["ReadMe"]
+        )
     ]
 )
