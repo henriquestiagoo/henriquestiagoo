@@ -13,7 +13,7 @@ struct Post: Encodable, Decodable {
     let summary: String
     let publishedAt: String
     let postUrl: String
-    let githubUrl: String
+    var githubUrl: String?
 }
 
 extension Post {
