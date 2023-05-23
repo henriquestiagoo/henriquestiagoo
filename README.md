@@ -23,8 +23,8 @@ I'm Tiago Henriques, an iOS Software Engineer who's passionate about building us
 * [suitablegreen.com](https://suitablegreen.com) - My old man's business website
 
 ### Latest articles in my [blog](https://tiagohenriques.vercel.app/)
+* [Getting started with Server-Side Swift with Vapor 🍏🍕🍦](https://tiagohenriques.vercel.app/blog/server-side-swift-with-vapor)
 * [Meet Modern Concurrency in Swift ⏳](https://tiagohenriques.vercel.app/blog/modern-concurrency-in-swift)
 * [Why you should add Vercel Analytics to your website 🔍](https://tiagohenriques.vercel.app/blog/why-you-should-enable-vercel-analytics)
-* [Increment build number using Fastlane ⬆️](https://tiagohenriques.vercel.app/blog/increment-build-number-using-fastlane)
 
 Feel free to [reach me](mailto:th.tk@hotmail.com) out for a coffee ☕
