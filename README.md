@@ -23,8 +23,8 @@ I'm Tiago Henriques, an iOS Software Engineer who's passionate about building us
 * [suitablegreen.com](https://suitablegreen.com) - My old man's business website
 
 ### Latest articles in my [blog](https://tiagohenriques.vercel.app/)
+* [How to bridge completion handlers into async APIs 🫱🏾‍🫲🏻](https://tiagohenriques.vercel.app/blog/bridge-completion-handlers-into-async-apis)
 * [How to deploy a Vapor application ☁️](https://tiagohenriques.vercel.app/blog/how-to-deploy-vapor-app)
 * [Getting started with Server-Side Swift with Vapor 🍏🍕🍦](https://tiagohenriques.vercel.app/blog/server-side-swift-with-vapor)
-* [Meet Modern Concurrency in Swift ⏳](https://tiagohenriques.vercel.app/blog/modern-concurrency-in-swift)
 
 Feel free to [reach me](mailto:th.tk@hotmail.com) out for a coffee ☕
