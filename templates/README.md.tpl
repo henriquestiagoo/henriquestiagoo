@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to my GitHub profile 👋
 
 <!--
 **henriquestiagoo/henriquestiagoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Tiago Henriques, an iOS Software Engineer who's passionate about building user-friendly interfaces and architecting applications from the ground-up. I'm primarily focused on functional programming and enjoy working with Swift.
+I am Tiago Henriques, an iOS Software Engineer who is passionate about building user-friendly interfaces and architecting applications from the ground-up. I am primarily focused on functional programming and enjoy working with Swift.
 
-### Here's a few side-projects i'm working on 💻 :
+## Here are a few side-projects I am working on 💻 :
 
 * [tiagohenriques.io](https://tiagohenriques.vercel.app) - My portfolio and blog built with Next.js, MDX, Tailwind CSS, and Vercel
 * [suitablegreen.com](https://suitablegreen.com) - My old man's business website
 
-### Latest articles in my [blog](https://tiagohenriques.vercel.app/)
+## Latest articles in my [blog](https://tiagohenriques.vercel.app/)
 {latest_posts}
 
 Feel free to [reach me](mailto:th.tk@hotmail.com) out for a coffee ☕
+
+This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
