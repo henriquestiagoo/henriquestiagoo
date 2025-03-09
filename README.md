@@ -19,9 +19,10 @@ I am Tiago Henriques, an iOS Software Engineer who is passionate about building 
 
 ## Here are a few side-projects I am working on 💻 :
 
-* [tiagohenriques.dev](https://www.tiagohenriques.dev) - My portfolio and blog built with Next.js, MDX, Tailwind CSS, and Vercel
+* [tiagohenriques.dev](https://www.tiagohenriques.dev) - My portfolio and blog built with Next.js, MDX, Tailwind CSS, and Vercel.
 * [ioscoffeebreak.com](ioscoffeebreak.com) - My weekly iOS newsletter with exclusive content, articles and tips.
-* [suitablegreen.com](https://suitablegreen.com) - My old man's business website
+* [padeltime.app](https://www.padeltime.app) - My Padel Score Tracker Companion app.
+* [suitablegreen.com](https://suitablegreen.com) - My old man's business website.
 
 ## Latest articles in my [blog](https://tiagohenriques.vercel.app/)
 * [How to bridge completion handlers into async APIs 🫱🏾‍🫲🏻](https://tiagohenriques.vercel.app/blog/bridge-completion-handlers-into-async-apis)
