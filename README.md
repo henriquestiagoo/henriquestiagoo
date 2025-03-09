@@ -24,10 +24,10 @@ I am Tiago Henriques, an iOS Software Engineer who is passionate about building 
 * [padeltime.app](https://www.padeltime.app) - My Padel Score Tracker Companion app.
 * [suitablegreen.com](https://suitablegreen.com) - My old man's business website.
 
-## Latest articles in my [blog](https://tiagohenriques.vercel.app/)
-* [How to bridge completion handlers into async APIs 🫱🏾‍🫲🏻](https://tiagohenriques.vercel.app/blog/bridge-completion-handlers-into-async-apis)
-* [How to deploy a Vapor application ☁️](https://tiagohenriques.vercel.app/blog/how-to-deploy-vapor-app)
-* [Getting started with Server-Side Swift with Vapor 🍏🍕🍦](https://tiagohenriques.vercel.app/blog/server-side-swift-with-vapor)
+## Latest articles in my [blog](https://www.tiagohenriques.dev/)
+* [How to bridge completion handlers into async APIs 🫱🏾‍🫲🏻](https://www.tiagohenriques.dev/blog/bridge-completion-handlers-into-async-apis)
+* [How to deploy a Vapor application ☁️](https://www.tiagohenriques.dev/blog/how-to-deploy-vapor-app)
+* [Getting started with Server-Side Swift with Vapor 🍏🍕🍦](https://www.tiagohenriques.dev/blog/server-side-swift-with-vapor)
 
 Feel free to [reach me](mailto:th.tk@hotmail.com) out for a coffee ☕
 
