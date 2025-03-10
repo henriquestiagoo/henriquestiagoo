@@ -19,7 +19,7 @@ I am Tiago Henriques, an iOS Software Engineer who is passionate about building 
 
 ## Here are a few side-projects I am working on 💻 :
 
-* [tiagohenriques.dev](https://www.tiagohenriques.dev) - My portfolio and blog built with Next.js, MDX, Tailwind CSS, and Vercel.
+* [tiagohenriques.dev](https://www.tiagohenriques.dev) - My portfolio and blog built with Next.js, MDX and Tailwind CSS.
 * [ioscoffeebreak.com](ioscoffeebreak.com) - My weekly iOS newsletter with exclusive content, articles and tips.
 * [padeltime.app](https://www.padeltime.app) - My Padel Score Tracker Companion app.
 * [suitablegreen.com](https://suitablegreen.com) - My old man's business website.
